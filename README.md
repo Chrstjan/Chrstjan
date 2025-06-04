@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Chrstjan/Chrstjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello there I'm Christian 👋
+<p>Web Dev crafting applications with React, Node.js & a bit of flair ✨</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>I like my code like I like my music: Groovy 🎶</em>  
+</p>
+
+
+---
+
+### 🔧 Tech Stack
+
+- 🎨 Frontend: `React`, `TypeScript`, `SCSS`
+- 🗃️ Backend: `Node.js`, `Express`, `MySQL`
+- 📦 DB Tools: `Sequelize`, `GraphQL`
+
+---
