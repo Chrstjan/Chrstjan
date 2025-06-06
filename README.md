@@ -20,7 +20,7 @@
 
 ### 📌 Pinned Projects
 
-- 🗺️ **Folklore Iceland** – A geolocation app exploring Icelandic folklore.  
+- 🗺️ **Sagnir** – A geolocation app exploring Icelandic folklore.  
   [🔗 View on GitHub](https://github.com/ln0185/Sagnir)
 
 ---
