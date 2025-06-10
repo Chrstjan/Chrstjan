@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/2510fecb-328f-4762-85f0-3cc9d6ad2c18)
 
 ## Hello there, I'm Christian 👋  
 <p>Web developer crafting applications with React, Node.js & a bit of flair ✨</p>
@@ -22,6 +23,9 @@
 
 - 🗺️ **Sagnir** – A geolocation app exploring Icelandic folklore.  
   [🔗 View on GitHub](https://github.com/ln0185/Sagnir)
+  
+- 🎵 **Audibly API** – A RESTful API for a Spotify-style app with JWT authentication and role-based access.  
+  [🔗 View on GitHub](https://github.com/Chrstjan/Audibly-API)
 
 ---
 
