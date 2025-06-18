@@ -11,9 +11,8 @@
 ### 🔧 Tech Stack
 
 - 🎨 **Frontend**: `React`, `TypeScript`, `SCSS`
-- 🗃️ **Backend**: `Node.js`, `Express`, `MySQL`
-- 📦 **DB Tools**: `Sequelize`, `GraphQL`
-- ⚙️ **Tooling**: `Vite`, `Babel`  
+- 🗃️ **Backend**: `Node.js`, `Express`, `TypeScript`,
+- 📦 **DB & ORM**: `MySQL`, `PostgreSQL`, `Sequelize`, `TypeORM` 
 - 🌐 **API**: `REST`, `GraphQL`
 ---
 
@@ -23,7 +22,7 @@
   [🔗 View on GitHub](https://github.com/ln0185/Sagnir)
   
 - 🎵 **Audibly REST API** – A traditional RESTful API for a Spotify-style music app. Includes JWT auth and role-based permissions.  
-  *Focused on implementing conventional REST practices with structured backend logic.`*  
+  *Focused on implementing conventional REST practices with structured backend logic.*  
   [🔗 View on GitHub](https://github.com/Chrstjan/Audibly-API)
 
 - 🎵🚀 **Audibly GraphQL API** – A flexible GraphQL version of the Audibly API, offering the same core features with enhanced querying capabilities.  
