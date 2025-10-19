@@ -1,8 +1,8 @@
 ## Hello there, I'm Christian 👋  
-<p>Web developer crafting applications with React, Node.js & a bit of flair ✨</p>
+<p>Software developer student & Web developer <br /></p>
 
 <p align="center">
-  <em>I like my code like I like my music: Groovy 🎶</em>  
+  <em>Crafting Software & Applications</em>  
 </p>
 
 
@@ -11,7 +11,7 @@
 ### 🔧 Tech Stack
 
 - 🎨 **Frontend**: `React`, `TypeScript`, `SCSS`
-- 🗃️ **Backend**: `Node.js`, `Express`, `TypeScript`,
+- 🗃️ **Backend**: `Node.js`, `Express`, `TypeScript`, `C#`, `C++`
 - 📦 **DB & ORM**: `MySQL`, `PostgreSQL`, `Sequelize`, `TypeORM` 
 - 🌐 **API**: `REST`, `GraphQL`
 ---
