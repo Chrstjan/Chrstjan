@@ -10,9 +10,8 @@
 
 ### 🔧 Tech Stack
 
-- 🎨 **Frontend**: `React`, `TypeScript`, `SCSS`
-- 🗃️ **Backend**: `Node.js`, `Express`, `TypeScript`, `C#`, `C++`
-- 📦 **DB & ORM**: `MySQL`, `PostgreSQL`, `Sequelize`, `TypeORM` 
+- 🎨 **Frontend**: `React`, `SCSS`
+- 🗃️ **Backend**: `Node.js`, `TypeScript`, `C#`, `Java`, `Kotlin`
 - 🌐 **API**: `REST`, `GraphQL`
 ---
 
@@ -29,12 +28,3 @@
   *Focused on flexible querying and modern API design using GraphQL schemas and resolvers.*  
   [🔗 View on GitHub](https://github.com/Chrstjan/Audibly-GraphQL-API)
 ---
-
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrstjan&layout=compact&theme=tokyonight" />
-
-<details>
-  <summary>Other Stats</summary>
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Chrstjan&theme=tokyonight&column=3" />
-</details>
